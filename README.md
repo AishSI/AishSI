@@ -22,7 +22,7 @@
 <br>
 
 📊 Some statistics
-<div align="left">
+<div align="center">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
 </div>
 <div align="center">
