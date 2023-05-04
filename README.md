@@ -2,6 +2,10 @@
 
 <br>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AishSI&theme=solarized-light&date_format=j%20M%5B%20Y%5D&card_width=)](https://git.io/streak-stats)
+
+<br>
+
 ### 🎓 Languages | Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
