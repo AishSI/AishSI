@@ -1,5 +1,4 @@
 <h1 align="center" style="color:#F79407">Hi there, I'm Ivan 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### 🏁 Recent projects
 <p align="center">
@@ -25,7 +24,7 @@
 </div>
 <hr>
 
-### 📊 Some statistics
+### 📈 Some statistics
 <div align="center">
   <img src="https://www.codewars.com/users/AishSI/badges/large" width="90%">  
 </div>
@@ -35,7 +34,7 @@
 </div>
 <hr>
 
-### 📨 Сontacts
+### ✉️ Сontacts
 <div align="right">
   <a href="https://discordapp.com/users/IVasi#0464"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://t.me/Ivan_AishSI"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
