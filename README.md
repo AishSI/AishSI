@@ -1,11 +1,6 @@
 ### Hi there 👋
-
-# 👋🏻 Hi there
-
 <br>
-
 ### 🎓 Languages | Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
 </p>
@@ -13,19 +8,13 @@
   <img src="https://skillicons.dev/icons?i=git,webpack" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
 <br>
-
 ### 📚 Currently Learning
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nodejs,react" />  
 </p>
-
 <br>
-
 ### 📊 Some statistics
-
 <div>
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
 </div>
