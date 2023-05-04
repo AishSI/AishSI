@@ -32,8 +32,8 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">  
-  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&margin-w=35&row=2&column=2">  
+  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="60%">  
+  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&margin-w=5&row=2&column=2"  width="35%">  
 </div>
 
 
