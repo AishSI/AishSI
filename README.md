@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
 <br>
-🎓 Languages | Tools
+
+### 🎓 Languages | Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
 </p>
@@ -8,8 +10,10 @@
   <img src="https://skillicons.dev/icons?i=git,webpack" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
+
 <br>
-📚 Currently Learning
+
+🌱 I’m currently learning ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nodejs,react" />  
 </p>
