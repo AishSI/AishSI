@@ -1,4 +1,4 @@
-<h1 align="center" color="#F79407">Hi there, I'm Ivan 
+<h1 align="center" style="color:#F79407">Hi there, I'm Ivan 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### 🎓 Languages | Tools
