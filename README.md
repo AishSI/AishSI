@@ -17,6 +17,7 @@
    <img src="https://skillicons.dev/icons?i=react" />  
 </p>
 <hr>
+
 ### 📊 Some statistics
 <div align="left">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
@@ -29,6 +30,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=1&column=4)](https://github.com/aishsi/github-profile-trophy)
 
 <hr>
+
 ### 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/IVasi#0464)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ivan_AishSI)
