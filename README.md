@@ -25,4 +25,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism">
 </div> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=C,B,AA&theme=buddhism))
+[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism)](https://github.com/aishsi/github-profile-trophy)
