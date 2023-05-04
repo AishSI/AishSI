@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">  
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&margin-w=35&row=1&column=3)](https://github.com/aishsi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=35&row=1&column=3)](https://github.com/aishsi/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
