@@ -1,6 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=500&color=F79407&background=FFFFFF00&multiline=true&repeat=false&width=435&lines=Hi+i'm+Ivan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br>
+
 ### 🎓 Languages | Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
@@ -11,6 +12,7 @@
 </p>
 
 <br>
+
 ### 🌱 I’m currently learning ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nodejs" />
@@ -18,6 +20,7 @@
 </p>
 
 <br>
+
 ### 📊 Some statistics
 <div align="left">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
