@@ -23,16 +23,9 @@
   <img src="https://www.codewars.com/users/AishSI/badges/large" width="90%">  
 </div>
 <div align="center" vertical-align="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="60%">  
-  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&column=2&row=2"  width="35%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="65%">  
+  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&column=2&row=2"  width="25%">  
 </div>
-
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">    
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs"> 
- -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=1&column=4)](https://github.com/aishsi/github-profile-trophy) -->
 
 <hr>
 
