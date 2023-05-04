@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**AishSI/AishSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋🏻 Hi there
 
-Here are some ideas to get you started:
+<br>
+### 🎓 Languages | Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,webpack" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+<br>
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,react" />  
+</p>
+
+<br>
+
+## 📊 Some statistics
+
+<div align="center">
+  <img src="https://www.codewars.com/users/AishSI/badges/large">  
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights">  
+</div>
+<div align="center">
+  https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism
+<div align="center">
+
+
+
+
+
