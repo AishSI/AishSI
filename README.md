@@ -13,7 +13,7 @@
 
 <br>
 
-🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nodejs" />
    <img src="https://skillicons.dev/icons?i=react" />  
@@ -21,7 +21,7 @@
 
 <br>
 
-📊 Some statistics
+### 📊 Some statistics
 <div align="left">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
 </div>
