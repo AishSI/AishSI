@@ -23,7 +23,7 @@
   <img src="https://www.codewars.com/users/AishSI/badges/large" width="90%">  
 </div>
 <div align="center" vertical-align="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="70%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="72%">  
   <img src="https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&column=2&row=2"  width="25%">  
 </div>
 
