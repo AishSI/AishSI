@@ -1,10 +1,10 @@
 ### Hi there 👋
 <br>
 ### 🎓 Languages | Tools
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
 </p>
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,webpack" />
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
@@ -18,9 +18,9 @@
 <div align="left">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights">  
 </div>
-<div align="left">
+<div align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism">
 </div>
