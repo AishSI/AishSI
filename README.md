@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=500&color=F79407&background=FFFFFF00&multiline=true&repeat=false&width=435&lines=Hi+i'm+Ivan)](https://git.io/typing-svg)
 
 <br>
 
