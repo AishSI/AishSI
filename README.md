@@ -21,8 +21,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights">  
 </div>
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism">
-</div>
+</div> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA))
+[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=C,B,AA&theme=buddhism))
