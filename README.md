@@ -1,6 +1,12 @@
 <h1 align="center" style="color:#F79407">Hi there, I'm Ivan 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+### 🏁 Recent projects
+<p align="center">
+  <a href="https://aishsi.github.io/virtual-keyboard/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Virtual_keyboard.jpg" width="150" title="virtual-keyboard"></a>
+  <a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q1/shelter/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Pets2.jpg" width="150" alt="Pets"></a> 
+</p>
+
 ### 🎓 Languages | Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js" />  
