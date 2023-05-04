@@ -1,4 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=500&color=F79407&background=FFFFFF00&multiline=true&width=450&lines=Hi+i'm+Ivan+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/IVasi#0464)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ivan_AishSI)
 
 ### 🎓 Languages | Tools
 <p align="center">
