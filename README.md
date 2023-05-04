@@ -15,7 +15,8 @@
 
 🌱 I’m currently learning ...
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,react" />  
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs" />
+   <img src="https://skillicons.dev/icons?i=react" />  
 </p>
 
 <br>
@@ -27,9 +28,9 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights">  
 </div>
-<!-- <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh">
-</div> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=C,B,AA&theme=buddhism)](https://github.com/aishsi/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishsi)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=C,B,AA&theme=buddhism)](https://github.com/aishsi/github-profile-trophy)
+</div>
+<div align="left">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishsi)](https://git.io/streak-stats)  
+</div>
