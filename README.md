@@ -25,9 +25,9 @@
 <div align="left">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
 </div>
-<!-- <div align="left"> -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">  
-<!-- </div> -->
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&margin-w=35&row=1&column=3)](https://github.com/aishsi/github-profile-trophy)
 
