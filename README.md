@@ -31,6 +31,13 @@
 
 <hr>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">  
+  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&margin-w=35&row=2&column=2">  
+</div>
+
+
+
 ### 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/IVasi#0464)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ivan_AishSI)
