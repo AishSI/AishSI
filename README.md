@@ -3,6 +3,7 @@
 # 👋🏻 Hi there
 
 <br>
+
 ### 🎓 Languages | Tools
 
 <p align="center">
@@ -23,7 +24,7 @@
 
 <br>
 
-## 📊 Some statistics
+### 📊 Some statistics
 
 <div align="center">
   <img src="https://www.codewars.com/users/AishSI/badges/large">  
