@@ -23,9 +23,10 @@
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=2&column=2)](https://github.com/aishsi/github-profile-trophy)
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=1&column=4)](https://github.com/aishsi/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=2&column=2)](https://github.com/aishsi/github-profile-trophy) -->
 
 ### 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/IVasi#0464)
