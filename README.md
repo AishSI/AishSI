@@ -24,7 +24,8 @@
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">    
 </div> -->
-<img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">    
+<img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs"> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=2&column=2)](https://github.com/aishsi/github-profile-trophy)
 
 ### 📫 How to reach me:
