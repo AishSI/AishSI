@@ -13,7 +13,7 @@
 
 ### 🌱 I’m currently learning ...
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs" />
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs" /><br>
    <img src="https://skillicons.dev/icons?i=react" />  
 </p>
 
