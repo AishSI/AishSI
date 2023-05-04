@@ -27,10 +27,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=1&column=4)](https://github.com/aishsi/github-profile-trophy)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishsi)](https://git.io/streak-stats) -->
-
-### 📫 How to reach me: ...
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/IVasi#0464)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Ivan_AishSI)
+### 📫 How to reach me:
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/IVasi#0464)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ivan_AishSI)
