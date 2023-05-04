@@ -33,7 +33,7 @@
 </div>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism">
-<div align="center">
+</div>
 
 
 
