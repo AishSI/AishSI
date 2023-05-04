@@ -11,17 +11,17 @@
 
 ### 🎓 Languages | Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js" />  
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js" alt="I know html css scss js"/>  
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,webpack" />
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=git,webpack"  alt="I know git webpack"/>
+  <img src="https://skillicons.dev/icons?i=figma"   alt="I know figma"/>
 </div>
 
 ### 💻 I’m currently learning ...
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=react" />  
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs" alt="I’m currently learning typescript nodejs"/><br>
+  <img src="https://skillicons.dev/icons?i=react"  alt="I’m currently learning react"/>  
 </div>
 <hr>
 
