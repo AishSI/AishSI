@@ -11,15 +11,11 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-<br>
-
 ### 🌱 I’m currently learning ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nodejs" />
    <img src="https://skillicons.dev/icons?i=react" />  
 </p>
-
-<br>
 
 ### 📊 Some statistics
 <div align="left">
