@@ -3,10 +3,10 @@
 
 ### 🏁 Recent projects
 <p align="center">
-  <a href="https://aishsi.github.io/virtual-keyboard/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Virtual_keyboard.jpg" width="150" style="border-radius:10px" title="virtual-keyboard"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q1/shelter/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Pets2.jpg" width="150" alt="Pets"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://rolling-scopes-school.github.io/aishsi-JSFE2022Q3/songbird/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Birds.jpg" width="150" alt="Songbird"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://rolling-scopes-school.github.io/aishsi-JSFEPRESCHOOL2022Q2/momentum/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/momentum.jpg" width="150" alt="Momentum"></a> 
+  <a href="https://aishsi.github.io/virtual-keyboard/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Virtual_keyboard.jpg" width="20%" title="virtual-keyboard"></a>&nbsp;&nbsp
+  <a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q1/shelter/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Pets2.jpg" width="20%" alt="Pets"></a>&nbsp;&nbsp;
+    <a href="https://rolling-scopes-school.github.io/aishsi-JSFE2022Q3/songbird/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/Birds.jpg" width="20%" alt="Songbird"></a>&nbsp;&nbsp;
+    <a href="https://rolling-scopes-school.github.io/aishsi-JSFEPRESCHOOL2022Q2/momentum/" target="_blank"><img src="https://raw.githubusercontent.com/AishSI/AishSI/main/momentum.jpg" width="20%" alt="Momentum"></a> 
 </p>
 
 ### 🎓 Languages | Tools
