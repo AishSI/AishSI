@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </div>
 
-### 🌱 I’m currently learning ...
+### 💻 I’m currently learning ...
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nodejs" /><br>
   <img src="https://skillicons.dev/icons?i=react" />  
