@@ -32,10 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights">  
 </div>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism">
+  <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=buddhism">
 </div>
-
-
-
-
-
