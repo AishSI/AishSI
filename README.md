@@ -22,21 +22,19 @@
 <div align="center">
   <img src="https://www.codewars.com/users/AishSI/badges/large" width="90%">  
 </div>
-<!-- <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">    
-</div> -->
-<img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs"> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=1&column=4)](https://github.com/aishsi/github-profile-trophy)
-
-<hr>
-
-<div align="center">
+<div align="center" vertical-align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="60%">  
   <img src="https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&row=2&column=2"  width="35%">  
 </div>
 
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">    
+</div>
+<img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs"> 
+ -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&margin-w=10&row=1&column=4)](https://github.com/aishsi/github-profile-trophy)
 
+<hr>
 
 ### 📫 How to reach me:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/IVasi#0464)
