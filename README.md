@@ -4,7 +4,7 @@
 
 ### 🎓 Languages | Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=css,html,scss,js" />  
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js" />  
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,webpack" />
