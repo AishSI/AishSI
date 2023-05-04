@@ -1,7 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=500&color=F79407&background=FFFFFF00&multiline=true&width=450&lines=Hi+i'm+Ivan+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<br>
-
 ### 🎓 Languages | Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js" />  
@@ -26,7 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="75%">  
   <img src="https://github-profile-trophy.vercel.app/?username=aishsi&theme=juicyfresh&column=2&row=2"  width="24%">  
 </div>
-
 <hr>
 
 ### 📫 How to reach me:
