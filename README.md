@@ -28,8 +28,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs">  
 </div>
-<div align="right">
 [![trophy](https://github-profile-trophy.vercel.app/?username=aishsi&rank=B,AA&theme=juicyfresh&margin-w=35&row=1&column=3)](https://github.com/aishsi/github-profile-trophy)
-</div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishsi)](https://git.io/streak-stats)
  -->
