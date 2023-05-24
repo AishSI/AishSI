@@ -26,7 +26,7 @@
 
 ### 📈 Some statistics
 <div align="center">
-  <img src="https://www.codewars.com/users/AishSI/badges/large" width="90%">  
+  <img src="https://raw.githubusercontent.com/AishSI/AishSI/main/codewars_AishSI.svg" width="90%">  
 </div>
 <div align="center" vertical-align="top">
   <img src="https://github-readme-stats.vercel.app/api?username=aishsi&show_icons=true&theme=city_lights&hide=issues,contribs" width="64%">  
