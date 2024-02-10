@@ -14,7 +14,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/nonograms/">Nonograms</a></h3>        
+        <h2 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/nonograms/">Nonograms</a></h2>        
       </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/">Hangman</a></h3>        
+        <h2 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/">Hangman</a></h2>        
       </td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/coffee-house/">Coffee-House</a></h3>  
+        <h2 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/coffee-house/">Coffee-House</a></h2>  
       </td>
     </tr>
     <tr>
