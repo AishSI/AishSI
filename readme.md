@@ -123,7 +123,7 @@
         <!-- <p align="center"><b>About:</b></p> -->
         <p align="center">educational project <a href="https://rs.school/">RS School</a></p>
           <p align="center">
-          Hangman is a classic word game in which you must find the correct answer by guessing letters one at a time.
+          Coffee House is a project to create a two-page responsive and interactive website.
           <ul>
           <li>Responsive/adaptive UI from 1440px to 380px viewport</li>
           <li>Implementation of the burger menu on both pages</li>
