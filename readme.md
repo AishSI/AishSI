@@ -107,7 +107,8 @@
     </tr>
     <tr>
       <td rowspan="3" width="30%">
-        <video src="https://github.com/AishSI/AishSI/assets/45088867/9a80da42-2522-4445-9e3a-7553dca76760">          
+<!--         <video src="https://github.com/AishSI/AishSI/assets/45088867/9a80da42-2522-4445-9e3a-7553dca76760">   -->
+        <img src="https://github.com/AishSI/AishSI/assets/45088867/d886a766-3a4f-47a7-99b4-29e718e039fb"/>
       </td>
     </tr>
     <tr>
