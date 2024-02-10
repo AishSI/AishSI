@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <video src="">
+        <video src="https://github.com/AishSI/AishSI/assets/45088867/f36379bb-0c6c-40dc-abda-521a08a5f96f">
       </td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <video src="">
+        <video src="https://github.com/AishSI/AishSI/assets/45088867/9a80da42-2522-4445-9e3a-7553dca76760">          
       </td>
     </tr>
     <tr>
