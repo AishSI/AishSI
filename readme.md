@@ -102,7 +102,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left">Coffee-House</h3>
+        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/coffee-house/">Coffee-House</a></h3>  
       </td>
     </tr>
     <tr>
