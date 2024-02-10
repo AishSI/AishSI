@@ -1,17 +1,13 @@
 <h1 align="center">Hi there, I'm Ivan
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!-- <br> -->
-<a href="https://www.codewars.com/users/AishSI" title="Открыть профиль на Codewars">
-  <img src="https://www.codewars.com/users/AishSI/badges/small" height="25px"/>
-</a>
-<!-- <a href="https://discordapp.com/users/IVasi#0464" title="Discord">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25px"/>
-</a> -->
-<!-- <br> -->
+<div align="center">
+  <a href="https://www.codewars.com/users/AishSI" title="Открыть профиль на Codewars">
+    <img src="https://www.codewars.com/users/AishSI/badges/large" height="35px"/>
+  </a>
+</div>
 
-<h2  align="center">My projects</h2>
-
+<h2  align="center">Recent projects</h2>
 <table>
   <tbody>
 <!-- ! -->
