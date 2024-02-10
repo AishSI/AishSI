@@ -37,7 +37,7 @@
       <td>
         <!-- <p align="center"><b>About:</b></p> -->
         <p align="center">educational project <a href="https://rs.school/">RS School</a></p>
-          <p align="center">The classic <a href="https://en.wikipedia.org/wiki/Nonogram">nonograms</a> game was implemented          
+          <p align="center">The classic <a href="https://en.wikipedia.org/wiki/Nonogram">"nonograms"</a> game was implemented          
           <ul>
             <li>All necessary elements are generated using JS</li>
             <li>The design adaptive and responsive from (500px <= width)</li>
@@ -80,7 +80,7 @@
         <!-- <p align="center"><b>About:</b></p> -->
         <p align="center">educational project <a href="https://rs.school/">RS School</a></p>
           <p align="center">
-          Hangman is a classic word game in which you must find the correct answer by guessing letters one at a time.
+            <a href="https://en.wikipedia.org/wiki/Hangman_(game)">"Hangman"</a> is a classic word game in which you must find the correct answer by guessing letters one at a time.
           <ul>
           <li>Responsive/adaptive UI from 1440px to 360px viewport</li>
           <li>The generation of DOM elements is implemented. </li>
