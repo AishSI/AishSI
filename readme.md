@@ -60,8 +60,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/">Hangman</a></h3>
-        https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/
+        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/">Hangman</a></h3>        
       </td>
     </tr>
     <tr>
