@@ -22,7 +22,7 @@
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="60%">
+      <td rowspan="3" width="50%">
         <video src="https://github.com/AishSI/AishSI/assets/45088867/940f0d72-8a4e-4c5b-967d-3d7e0109d0a1">          
       </td>
     </tr>
@@ -64,7 +64,7 @@
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="60%">
+      <td rowspan="3" width="30%">
         <video src="https://github.com/AishSI/AishSI/assets/45088867/f36379bb-0c6c-40dc-abda-521a08a5f96f">
       </td>
     </tr>
@@ -106,7 +106,7 @@
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="60%">
+      <td rowspan="3" width="30%">
         <video src="https://github.com/AishSI/AishSI/assets/45088867/9a80da42-2522-4445-9e3a-7553dca76760">          
       </td>
     </tr>
