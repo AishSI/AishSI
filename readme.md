@@ -10,7 +10,7 @@
 </a> -->
 <!-- <br> -->
 
-<h2 align="center">My projects</h2>
+<h2  align="center">My projects</h2>
 
 <table>
   <tbody>
@@ -23,9 +23,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <video class="enjoy__video" autoplay="" muted="" loop="">
-          <source src="nonogram.mp4" type="video/webm">
-        </video>
+        <video src="">
       </td>
     </tr>
     <tr>
@@ -67,9 +65,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <video class="enjoy__video" autoplay="" muted="" loop="">
-          <source src="hangman.mp4" type="video/webm">
-        </video>
+        <video src="">
       </td>
     </tr>
     <tr>
@@ -111,9 +107,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <video class="enjoy__video" autoplay="" muted="" loop="">
-          <source src="coffee.mp4" type="video/webm">
-        </video>
+        <video src="">
       </td>
     </tr>
     <tr>
