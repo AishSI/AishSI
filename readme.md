@@ -18,7 +18,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left">Nonograms</h3>
+        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/nonograms/">Nonograms</a></h3>        
       </td>
     </tr>
     <tr>
@@ -60,7 +60,8 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left">Hangman</h3>
+        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/">Hangman</a></h3>
+        https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/hangman/
       </td>
     </tr>
     <tr>
