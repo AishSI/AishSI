@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <video src="">
+        <video src="https://github.com/AishSI/AishSI/assets/45088867/940f0d72-8a4e-4c5b-967d-3d7e0109d0a1">          
       </td>
     </tr>
     <tr>
