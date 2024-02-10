@@ -18,7 +18,7 @@
    <tr>
      <tr>
       <td colspan="2">
-        <h3 align="left"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/nonograms/">Nonograms</a></h3>        
+        <h3 align="left" style="margin: 0"><a href="https://rolling-scopes-school.github.io/aishsi-JSFE2023Q4/nonograms/">Nonograms</a></h3>        
       </td>
     </tr>
     <tr>
