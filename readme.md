@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Ivan
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div align="center">
-  <a href="https://www.codewars.com/users/AishSI" title="Открыть профиль на Codewars">
-    <img src="https://www.codewars.com/users/AishSI/badges/large" height="35px"/>
-  </a>
-</div>
+![codewars badge](https://github.com/AishSI/AishSI/assets/45088867/b72f46ed-a30c-4e25-8280-d8df3b0ebbb2)
 
 <h2  align="center">Recent projects</h2>
 <table>
