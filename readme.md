@@ -6,9 +6,9 @@
 <table><tr>
 <!-- Левый столбец - Codewars -->
 <td valign="center">
-
-[![Codewars](https://www.codewars.com/users/AishSI/badges/large)](https://www.codewars.com/users/AishSI)
-
+<a href="https://www.codewars.com/users/AishSI" target="_blank">
+  <img src="https://www.codewars.com/users/AishSI/badges/large" alt="Codewars Badge" style="height:40px;">
+</a>
 </td>
 <!-- Правый столбец - иконки -->
 <td valign="top">
@@ -34,16 +34,6 @@
 
 </td>
 </tr></table>
-
-
-
-
-
-
-
-
-
-
 
 <h2  align="center">Recent projects</h2>
 <table>
