@@ -16,19 +16,19 @@
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <!-- Первый ряд -->
   <div style="display: flex; gap: 10px;">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" title="HTML5"/>
-    <img src="https://cdn.simpleicons.org/cssmodules/000000" width="40" height="40" title="CSS Modules"/>
-    <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" title="Sass"/>
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" title="Tailwind CSS"/>
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" title="Figma"/>
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" title="HTML5"/>
+    <img src="https://cdn.simpleicons.org/cssmodules/000000" width="32" height="32" title="CSS Modules"/>
+    <img src="https://cdn.simpleicons.org/sass/CC6699" width="32" height="32" title="Sass"/>
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" title="Tailwind CSS"/>
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" height="32" title="Figma"/>
   </div>
   <!-- Второй ряд -->
   <div style="display: flex; gap: 10px;">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" title="JavaScript"/>
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" title="TypeScript"/>
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" title="React"/>
-    <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="40" height="40" alt="Webpack" title="Webpack" />
-    <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" title="Vite"/>
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" title="JavaScript"/>
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" title="TypeScript"/>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" title="React"/>
+    <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="32" height="32" alt="Webpack" title="Webpack" />
+    <img src="https://cdn.simpleicons.org/vite/646CFF" width="32" height="32" title="Vite"/>
   </div>
 </div>
 
