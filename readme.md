@@ -1,7 +1,49 @@
 <h1 align="center">Hi there, I'm Ivan
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="50"/></h1>
 
-![codewars badge](https://www.codewars.com/users/AishSI/badges/large)
+<!-- ![codewars badge](https://www.codewars.com/users/AishSI/badges/large) -->
+
+<table><tr>
+<!-- Левый столбец - Codewars -->
+<td valign="center">
+
+[![Codewars](https://www.codewars.com/users/AishSI/badges/large)](https://www.codewars.com/users/AishSI)
+
+</td>
+<!-- Правый столбец - иконки -->
+<td valign="top">
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <!-- Первый ряд -->
+  <div style="display: flex; gap: 10px;">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" title="HTML5"/>
+    <img src="https://cdn.simpleicons.org/cssmodules/000000" width="40" height="40" title="CSS Modules"/>
+    <img src="https://cdn.simpleicons.org/sass/CC6699" width="40" height="40" title="Sass"/>
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" title="Tailwind CSS"/>
+    <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" title="Figma"/>
+  </div>
+  <!-- Второй ряд -->
+  <div style="display: flex; gap: 10px;">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" title="JavaScript"/>
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" title="TypeScript"/>
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" title="React"/>
+    <img src="https://cdn.simpleicons.org/webpack/8DD6F9" width="40" height="40" alt="Webpack" title="Webpack" />
+    <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" title="Vite"/>
+  </div>
+</div>
+
+</td>
+</tr></table>
+
+
+
+
+
+
+
+
+
+
 
 <h2  align="center">Recent projects</h2>
 <table>
